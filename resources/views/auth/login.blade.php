@@ -45,8 +45,8 @@
                         </label>
                     </div>
                     {{-- Notifikasi --}}
-                    <input type="hidden" id="fcmToken" class="form-control form-control-xl" value="AAAA05lw3R8:APA91bErlr6WcI2np1GxwaBXxYcam3j2TkObBUCRxgjO46q4qxP_MkFIlCHKjOdVJ3tGwEfml8qxYv23ifnep6LjQavRLFwQeqY7lG-r_6YjT6TuFVkKkixQWV32UwpmUgjxIKyE8byI">
-                    <input type="hidden" id="deviceToken" class="form-control form-control-xl" value="fnBh1dChTGqe6J5LZEffdR:APA91bFfPg9JJOWDyuI6lR19iGbXyaMX4z34KG7WZWW2kFzbkGvfw-wDpIzICJPP1b9qcqO-hw-u_SEtwBvVK1UrVoomcEXHDRlB0K9Gs4xExSwS9U4hi_5k3bMLIoK-WSSzyXPJSLiA">
+                    <input type="hidden" id="fcmToken" class="form-control form-control-xl" value="your_token">
+                    <input type="hidden" id="deviceToken" class="form-control form-control-xl" value="your_token">
                     <input type="hidden" id="title" class="form-control form-control-xl" value="Hotel Reservation">
                     <input type="hidden" id="content" class="form-control form-control-xl" value="Seseorang login di dashboard Reservasi">
                     {{-- End Notifikasi --}}
